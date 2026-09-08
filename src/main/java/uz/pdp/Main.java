@@ -7,6 +7,10 @@ public class Main {
         }
 
 
+        String age = "9";
+
+        System.out.println(age);
+
         }
     }
 
